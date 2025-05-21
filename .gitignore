@@ -1,0 +1,66 @@
+# -------------------------
+# KiCad Git Ignore Template
+# -------------------------
+
+# === BACKUPS & AUTOSAVES ===
+*.bak
+*.bck
+*.tmp
+*.autosave
+*-save.kicad_pcb
+*-save.kicad_sch
+
+# === KICAD TEMP FILES ===
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_sch-autosave
+*.kicad_pcb-autosave
+fp-info-cache/
+
+# === SIMULATION FILES ===
+*.raw
+*.log
+*.cir
+*.out
+*.net
+
+# === LIBRARY CACHE FILES ===
+*.cache
+*.cache.lib
+*-cache.lib
+*.lib-table-bak
+*.dcm
+
+# === GERBER / MANUFACTURING FILES ===
+*.gbr
+*.drl
+*.gtp
+*.gto
+*.gts
+*.gbl
+*.gbp
+*.gbs
+*.gml
+*.gm*
+*.zip
+
+# === 3D VIEWER CACHE ===
+3d/
+
+# === USER PREFERENCES (optional) ===
+# Uncomment these lines to ignore user-specific settings
+# *.kicad_prl
+# *.kicad_pro
+
+# === OUTPUT DIRECTORIES ===
+build/
+output/
+tmp/
+
+# === PYTHON COMPILED FILES ===
+__pycache__/
+*.pyc
+
+# === OS GENERATED FILES ===
+.DS_Store
+Thumbs.db

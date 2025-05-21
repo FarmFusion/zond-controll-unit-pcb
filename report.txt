@@ -1,0 +1,110 @@
+Info: Processing symbol 'U1:Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm'.
+Added U1 (footprint 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm').
+Changed REF** reference designator to U1.
+Changed U1 value from QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm to STM32G431CBUx.
+Updated U1 symbol association from  to /07e090ff-4162-4964-a8c1-c2eb2faa85b8.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'steper-motor-unit.kicad_sch'.
+Updated U1 footprint filters to 'QFN*1EP*7x7mm*P0.5mm*'.
+Add net unconnected-(U1-VDD-Pad35).
+Connected U1 pin 35 to unconnected-(U1-VDD-Pad35).
+Add net unconnected-(U1-VDDA-Pad21).
+Connected U1 pin 21 to unconnected-(U1-VDDA-Pad21).
+Add net unconnected-(U1-PF0-Pad5).
+Connected U1 pin 5 to unconnected-(U1-PF0-Pad5).
+Add net unconnected-(U1-PA10-Pad32).
+Connected U1 pin 32 to unconnected-(U1-PA10-Pad32).
+Add net unconnected-(U1-PB7-Pad45).
+Connected U1 pin 45 to unconnected-(U1-PB7-Pad45).
+Add net unconnected-(U1-PF1-Pad6).
+Connected U1 pin 6 to unconnected-(U1-PF1-Pad6).
+Add net unconnected-(U1-PA9-Pad31).
+Connected U1 pin 31 to unconnected-(U1-PA9-Pad31).
+Add net unconnected-(U1-PB5-Pad43).
+Connected U1 pin 43 to unconnected-(U1-PB5-Pad43).
+Add net unconnected-(U1-PB14-Pad27).
+Connected U1 pin 27 to unconnected-(U1-PB14-Pad27).
+Add net unconnected-(U1-PA14-Pad37).
+Connected U1 pin 37 to unconnected-(U1-PA14-Pad37).
+Add net unconnected-(U1-PA15-Pad38).
+Connected U1 pin 38 to unconnected-(U1-PA15-Pad38).
+Add net unconnected-(U1-PC4-Pad16).
+Connected U1 pin 16 to unconnected-(U1-PC4-Pad16).
+Add net unconnected-(U1-VBAT-Pad1).
+Connected U1 pin 1 to unconnected-(U1-VBAT-Pad1).
+Add net unconnected-(U1-PC15-Pad4).
+Connected U1 pin 4 to unconnected-(U1-PC15-Pad4).
+Add net unconnected-(U1-VDD-Pad23).
+Connected U1 pin 23 to unconnected-(U1-VDD-Pad23).
+Add net unconnected-(U1-PA2-Pad10).
+Connected U1 pin 10 to unconnected-(U1-PA2-Pad10).
+Add net unconnected-(U1-VSS-Pad49).
+Connected U1 pin 49 to unconnected-(U1-VSS-Pad49).
+Add net unconnected-(U1-PA8-Pad30).
+Connected U1 pin 30 to unconnected-(U1-PA8-Pad30).
+Add net unconnected-(U1-PC11-Pad40).
+Connected U1 pin 40 to unconnected-(U1-PC11-Pad40).
+Add net unconnected-(U1-PB6-Pad44).
+Connected U1 pin 44 to unconnected-(U1-PB6-Pad44).
+Add net unconnected-(U1-PB9-Pad47).
+Connected U1 pin 47 to unconnected-(U1-PB9-Pad47).
+Add net unconnected-(U1-PA11-Pad33).
+Connected U1 pin 33 to unconnected-(U1-PA11-Pad33).
+Add net unconnected-(U1-PB0-Pad17).
+Connected U1 pin 17 to unconnected-(U1-PB0-Pad17).
+Add net unconnected-(U1-PC14-Pad3).
+Connected U1 pin 3 to unconnected-(U1-PC14-Pad3).
+Add net unconnected-(U1-PB15-Pad28).
+Connected U1 pin 28 to unconnected-(U1-PB15-Pad28).
+Add net unconnected-(U1-VREF+-Pad20).
+Connected U1 pin 20 to unconnected-(U1-VREF+-Pad20).
+Add net unconnected-(U1-PA12-Pad34).
+Connected U1 pin 34 to unconnected-(U1-PA12-Pad34).
+Add net unconnected-(U1-PA0-Pad8).
+Connected U1 pin 8 to unconnected-(U1-PA0-Pad8).
+Add net unconnected-(U1-PC6-Pad29).
+Connected U1 pin 29 to unconnected-(U1-PC6-Pad29).
+Add net unconnected-(U1-VDD-Pad48).
+Connected U1 pin 48 to unconnected-(U1-VDD-Pad48).
+Add net unconnected-(U1-PB8-Pad46).
+Connected U1 pin 46 to unconnected-(U1-PB8-Pad46).
+Add net unconnected-(U1-PC10-Pad39).
+Connected U1 pin 39 to unconnected-(U1-PC10-Pad39).
+Add net unconnected-(U1-PA7-Pad15).
+Connected U1 pin 15 to unconnected-(U1-PA7-Pad15).
+Add net unconnected-(U1-PB1-Pad18).
+Connected U1 pin 18 to unconnected-(U1-PB1-Pad18).
+Add net unconnected-(U1-PB12-Pad25).
+Connected U1 pin 25 to unconnected-(U1-PB12-Pad25).
+Add net unconnected-(U1-PA5-Pad13).
+Connected U1 pin 13 to unconnected-(U1-PA5-Pad13).
+Add net unconnected-(U1-PB2-Pad19).
+Connected U1 pin 19 to unconnected-(U1-PB2-Pad19).
+Add net unconnected-(U1-PA1-Pad9).
+Connected U1 pin 9 to unconnected-(U1-PA1-Pad9).
+Add net unconnected-(U1-PA6-Pad14).
+Connected U1 pin 14 to unconnected-(U1-PA6-Pad14).
+Add net unconnected-(U1-PB13-Pad26).
+Connected U1 pin 26 to unconnected-(U1-PB13-Pad26).
+Add net unconnected-(U1-PA4-Pad12).
+Connected U1 pin 12 to unconnected-(U1-PA4-Pad12).
+Add net unconnected-(U1-PB11-Pad24).
+Connected U1 pin 24 to unconnected-(U1-PB11-Pad24).
+Add net unconnected-(U1-PB4-Pad42).
+Connected U1 pin 42 to unconnected-(U1-PB4-Pad42).
+Add net unconnected-(U1-PB3-Pad41).
+Connected U1 pin 41 to unconnected-(U1-PB3-Pad41).
+Add net unconnected-(U1-PG10-Pad7).
+Connected U1 pin 7 to unconnected-(U1-PG10-Pad7).
+Add net unconnected-(U1-PA3-Pad11).
+Connected U1 pin 11 to unconnected-(U1-PA3-Pad11).
+Add net unconnected-(U1-PA13-Pad36).
+Connected U1 pin 36 to unconnected-(U1-PA13-Pad36).
+Add net unconnected-(U1-PC13-Pad2).
+Connected U1 pin 2 to unconnected-(U1-PC13-Pad2).
+Add net unconnected-(U1-PB10-Pad22).
+Connected U1 pin 22 to unconnected-(U1-PB10-Pad22).
+
+
+Info: Total warnings: 0, errors: 0.
